@@ -7,7 +7,9 @@ Though the notebook is valid and working 🎉, in the near future I will add mor
 Until then, if you have any questions, I'll be more than happy to answer them 😆📫
 
 ## Case Study Description
+
 ## Setup - Installation Dependencies
+
 ## TODOS
 
 ## MIT License
